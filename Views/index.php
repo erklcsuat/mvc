@@ -10,8 +10,7 @@ print 'This is a index page!';
         { ?>
             <li><?php print $user['name']; ?></li>
             <a href="book-add">GO TO BOOK ADD</a>
-    <?php }
-   ?>
+    <?php } ?>
 </ul>
 
 <br>
