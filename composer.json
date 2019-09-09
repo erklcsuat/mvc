@@ -1,0 +1,18 @@
+{
+    "name": "su-e/mvc",
+    "type": "library",
+    "description": "",
+    "authors": [
+        {
+            "name": "ashkan90",
+            "email": "emirhan.1ataman@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Framework\\": "framework/"
+        }
+    },
+    "require": {}
+}
